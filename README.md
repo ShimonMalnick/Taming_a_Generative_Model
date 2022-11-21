@@ -1,1 +1,2 @@
-# Taming_a_Generative_Model
+# Taming a Generative Model
+The code will be uploaded soon.
