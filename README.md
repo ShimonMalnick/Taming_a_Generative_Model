@@ -11,8 +11,11 @@ Taming a Generative Model
 <h3 style="text-align: center;">
 <a href="https://shimonmalnick.github.io/GenTame/">Project Page</a>
 </h3>
+<h3 style="text-align: center;">
+<a href="https://arxiv.org/abs/2211.16488">Arxiv</a>
+</h3>
 
-Official implementation of the paper: Taming a Generative Model
+Official implementation of the paper: [Taming a Generative Model](https://arxiv.org/pdf/2211.16488.pdf)
 
 The code will be uploaded soon.
 
