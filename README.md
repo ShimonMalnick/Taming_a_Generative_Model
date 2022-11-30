@@ -15,3 +15,13 @@ Taming a Generative Model
 Official implementation of the paper: Taming a Generative Model
 
 The code will be uploaded soon.
+
+# BibTex
+```bib
+      @article{malnick2022taming,
+        title={Taming a Generative Model},
+        author = {Malnick, Shimon and Avidan, Shai and Fried, Ohad},
+        journal={arXiv preprint arXiv:2211.16488},
+        year={2022}
+      }
+```
